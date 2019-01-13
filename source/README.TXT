@@ -8,4 +8,4 @@ Avoid the red balloons.
 
 Pop the blue balloons for double the points of yellow balloons.
 
-Copyright? 2017 Quint Wingate.
+Copyleft 2017 Quint Burkley.
