@@ -8,4 +8,4 @@ Avoid the red balloons.
 
 Pop the blue balloons for double the points of yellow balloons.
 
-Copyleft 2017 Quint Burkley.
+Copyleft 2019 Quint Burkley.
